@@ -1,0 +1,14 @@
+D:\Yudiz work\C#\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.exe
+D:\Yudiz work\C#\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.deps.json
+D:\Yudiz work\C#\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.runtimeconfig.json
+D:\Yudiz work\C#\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.runtimeconfig.dev.json
+D:\Yudiz work\C#\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.dll
+D:\Yudiz work\C#\Prime_Number\bin\Debug\netcoreapp3.1\Prime_Number.pdb
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.csproj.AssemblyReference.cache
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.AssemblyInfoInputs.cache
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.AssemblyInfo.cs
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.csproj.CoreCompileInputs.cache
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.dll
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.pdb
+D:\Yudiz work\C#\Prime_Number\obj\Debug\netcoreapp3.1\Prime_Number.genruntimeconfig.cache
